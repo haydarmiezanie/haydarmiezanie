@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @haydarmiezanie
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Streaming & AWS Stack
+- 💞️ I’m looking to collaborate on discussion
+- 📫 How to reach me [linkedin](https://id.linkedin.com/in/haydar-miezanie-abdul-jamil-916302162)
+
+<!---
+haydarmiezanie/haydarmiezanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
