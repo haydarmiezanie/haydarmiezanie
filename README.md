@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haydarmiezanie
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Streaming & AWS Stack
-- 💞️ I’m looking to collaborate on discussion
+- 💞️ I’m looking to collaborate on Data & Infrastructure
 - 📫 How to reach me [linkedin](https://id.linkedin.com/in/haydar-miezanie-abdul-jamil-916302162)
 
 <!---
