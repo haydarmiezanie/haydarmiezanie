@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haydarmiezanie
+- 👋 Hi, I’m Haydar
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Streaming & AWS Stack
 - 💞️ I’m looking to collaborate on Data & Infrastructure
